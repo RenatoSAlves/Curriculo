@@ -1,0 +1,6 @@
+.contatos{
+    display: flex;
+    justify-content: flex-start;
+    padding: 1em;
+    padding-right: 10em;
+}

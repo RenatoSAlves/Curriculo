@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+p {
+    padding: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 auto;
+    background-color: rgb(227, 227, 250);
+}
+h1 {
+    text-indent: 1em;
+    padding: 1rem;
+    border-radius: 2em;
+}
